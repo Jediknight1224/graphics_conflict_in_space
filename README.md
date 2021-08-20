@@ -1,4 +1,4 @@
-# graphics_conflict_in_space
+# Conflict in Space
 ## Graphics project is written in C++ using graphics.h library
 
 This project creates a short animated film.
